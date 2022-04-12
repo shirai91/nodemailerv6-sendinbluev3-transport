@@ -1,5 +1,5 @@
 {
-  "name": "@shirai91/nodemailerv6-sendinbluev3-transport",
+  "name": "nodemailerv6-sendinbluev3-transport",
   "version": "1.0.1",
   "engines": {
     "node": ">=16.6.2",
