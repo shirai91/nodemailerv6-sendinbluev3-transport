@@ -1,6 +1,6 @@
 {
   "name": "nodemailerv6-sendinbluev3-transport",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "engines": {
     "node": ">=16.6.2",
     "npm": ">=7.20.3"
